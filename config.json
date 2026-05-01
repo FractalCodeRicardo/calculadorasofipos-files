@@ -1,0 +1,70 @@
+{
+  "actualizacion": "2026-05-01T00:00:00",
+  "instituciones": [
+    {
+      "id": "01-klar",
+      "nombre": "Klar",
+      "imagen": "001-klar.png"
+    },
+    {
+      "id": "02-nu",
+      "nombre": "Nu",
+      "imagen": "002-nu.png"
+    },
+    {
+      "id": "03-mercado-libre",
+      "nombre": "Mercado Libre",
+      "imagen": "003-mercado.jpeg"
+    },
+    {
+      "id": "04-uala",
+      "nombre": "Uala",
+      "imagen": "004-uala.jpeg"
+    },
+    {
+      "id": "05-mifel",
+      "nombre": "Mifel",
+      "imagen": "005-mifel.jpg"
+    },
+    {
+      "id": "06-finsus",
+      "nombre": "Finsus",
+      "imagen": "006-finsus.png"
+    },
+    {
+      "id": "07-stori",
+      "nombre": "Stori",
+      "imagen": "007-stori.jpg"
+    },
+    {
+      "id": "08-cetes",
+      "nombre": "Cetes",
+      "imagen": "008-cetes.jpg"
+    },
+    {
+      "id": "09-supertasas",
+      "nombre": "Supertasas",
+      "imagen": "009-supertasas.png"
+    },
+    {
+      "id": "10-finamex",
+      "nombre": "Finamex",
+      "imagen": "010-finamex.png"
+    },
+    {
+      "id": "11-openbank",
+      "nombre": "OpenBank",
+      "imagen": "011-openbank.png"
+    },
+    {
+      "id": "12-didi",
+      "nombre": "Didi",
+      "imagen": "012-didi.jpg"
+    },
+    {
+      "id": "13-revolut",
+      "nombre": "Revolut",
+      "imagen": "013-Revolut.webp"
+    }
+  ]
+}
