@@ -1,0 +1,14 @@
+[
+  {
+    "tipo": "vista",
+    "dias": 0,
+    "tasa": 15.0,
+    "tope": 25000
+  },
+  {
+    "tipo": "plazo",
+    "dias": 30,
+    "tasa": 15.0,
+    "tope": 25000
+  }
+]

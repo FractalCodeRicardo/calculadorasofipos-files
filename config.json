@@ -4,67 +4,80 @@
     {
       "id": "01-klar",
       "nombre": "Klar",
-      "imagen": "001-klar.png"
+      "imagen": "001-klar.png",
+      "tasas": "01-klar.json"
     },
     {
       "id": "02-nu",
       "nombre": "Nu",
-      "imagen": "002-nu.png"
+      "imagen": "002-nu.png",
+      "tasas": "02-nu.json"
     },
     {
       "id": "03-mercado-libre",
       "nombre": "Mercado Libre",
-      "imagen": "003-mercado.jpeg"
+      "imagen": "003-mercado.jpeg",
+      "tasas": "03-mercado.json"
     },
     {
       "id": "04-uala",
       "nombre": "Uala",
-      "imagen": "004-uala.jpeg"
+      "imagen": "004-uala.jpeg",
+      "tasas": "04-uala.json"
     },
     {
       "id": "05-mifel",
       "nombre": "Mifel",
-      "imagen": "005-mifel.jpg"
+      "imagen": "005-mifel.jpg",
+      "tasas": "05-mifel.json"
     },
     {
       "id": "06-finsus",
       "nombre": "Finsus",
-      "imagen": "006-finsus.png"
+      "imagen": "006-finsus.png",
+      "tasas": "06-finsus.json"
     },
     {
       "id": "07-stori",
       "nombre": "Stori",
-      "imagen": "007-stori.jpg"
+      "imagen": "007-stori.jpg",
+      "tasas": "07-stori.json"
     },
     {
       "id": "08-cetes",
       "nombre": "Cetes",
-      "imagen": "008-cetes.jpg"
+      "imagen": "008-cetes.jpg",
+      "tasas": "08-cetes.json"
     },
     {
       "id": "09-supertasas",
       "nombre": "Supertasas",
-      "imagen": "009-supertasas.png"
+      "imagen": "009-supertasas.png",
+      "tasas": "09-supertasas.json"
     },
     {
       "id": "10-finamex",
       "nombre": "Finamex",
-      "imagen": "010-finamex.png"
+      "imagen": "010-finamex.png",
+      "tasas": "10-finamex.json"
     },
     {
       "id": "11-openbank",
       "nombre": "OpenBank",
-      "imagen": "011-openbank.png"
+      "imagen": "011-openbank.png",
+      "tasas": "11-openbank.json"
     },
     {
       "id": "12-didi",
       "nombre": "Didi",
-      "imagen": "012-didi.jpg"
+      "imagen": "012-didi.jpg",
+      "tasas": "12-didi.json"
     },
     {
       "id": "13-revolut",
       "nombre": "Revolut",
-      "imagen": "013-Revolut.webp"
+      "imagen": "013-Revolut.webp",
+      "tasas": "13-revolut.json"
     }
   ]
 }
