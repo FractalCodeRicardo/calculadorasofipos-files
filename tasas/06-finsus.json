@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "tipo": "vista",
+    "dias": 0,
+    "tasa": 7.08,
+    "tope": 0,
+    "descripcion": "Ahorro Finsus+ %7.08",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": "A la vista con apartado Finsus+"
+  },
+  {
+    "tipo": "vista",
+    "dias": 0,
+    "tasa": 4.0,
+    "tope": 0,
+    "descripcion": "Apartado Finsus %4",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": "Apartado normal"
+  },
+  {
+    "tipo": "plazo",
+    "dias": 7,
+    "tasa": 7.09,
+    "tope": 0,
+    "descripcion": "Plazo 7 días %7.09",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 30,
+    "tasa": 7.19,
+    "tope": 0,
+    "descripcion": "Plazo 30 días %7.19",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 90,
+    "tasa": 7.59,
+    "tope": 0,
+    "descripcion": "Plazo 90 días %7.59",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 120,
+    "tasa": 11.5,
+    "tope": 0,
+    "descripcion": "Plazo 120 días %11.5",
+    "tasaTope": 0,
+    "restricciones": "Promoción temporal",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 180,
+    "tasa": 7.69,
+    "tope": 0,
+    "descripcion": "Plazo 180 días %7.69",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 360,
+    "tasa": 9.09,
+    "tope": 0,
+    "descripcion": "Plazo 360 días %9.09",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 540,
+    "tasa": 10.09,
+    "tope": 0,
+    "descripcion": "Plazo 540 días %10.09",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 720,
+    "tasa": 7.01,
+    "tope": 0,
+    "descripcion": "Plazo 720 días %7.01",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 1080,
+    "tasa": 10.2,
+    "tope": 0,
+    "descripcion": "Plazo 1080 días %10.2",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 1440,
+    "tasa": 6.19,
+    "tope": 0,
+    "descripcion": "Plazo 1440 días %6.19",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 1800,
+    "tasa": 6.09,
+    "tope": 0,
+    "descripcion": "Plazo 1800 días %10.30",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  }
+]

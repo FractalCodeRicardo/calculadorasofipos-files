@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "tipo": "vista",
+    "dias": 0,
+    "tasa": 6.75,
+    "tope": 0,
+    "descripcion": "Cajita 24/7 %6.75",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "vista",
+    "dias": 0,
+    "tasa": 13.0,
+    "tope": 25000,
+    "descripcion": "Cajita Turbo %13",
+    "tasaTope": 6.75,
+    "restricciones": "Una compra al mes",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 7,
+    "tasa": 6.8,
+    "tope": 0,
+    "descripcion": "Congelado 7 días %6.8",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 28,
+    "tasa": 6.85,
+    "tope": 0,
+    "descripcion": "Congelado 28 días %6.85",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 90,
+    "tasa": 6.95,
+    "tope": 0,
+    "descripcion": "Congelado 90 días %6.95",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 180,
+    "tasa": 7.05,
+    "tope": 0,
+    "descripcion": "Congelado 180 días %7.05",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  }
+]

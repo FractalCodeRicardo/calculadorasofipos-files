@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "tipo": "vista",
+    "dias": 0,
+    "tasa": 6.77,
+    "tope": 0,
+    "descripcion": "Cuenta+ %6.77",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": "Equivalente anual estimado con rendimiento diario"
+  },
+  {
+    "tipo": "plazo",
+    "dias": 30,
+    "tasa": 7.05,
+    "tope": 0,
+    "descripcion": "Inversión+ 30 días %7.05",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 60,
+    "tasa": 15.0,
+    "tope": 0,
+    "descripcion": "Inversión+ 60 días %15",
+    "tasaTope": 0,
+    "restricciones": "Límite de 10 mil/Stori Pro",
+    "notas": "GAT nominal promocional"
+  },
+  {
+    "tipo": "plazo",
+    "dias": 90,
+    "tasa": 8.0,
+    "tope": 0,
+    "descripcion": "Inversión+ 90 días %8",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": "GAT nominal"
+  },
+  {
+    "tipo": "plazo",
+    "dias": 180,
+    "tasa": 8.25,
+    "tope": 0,
+    "descripcion": "Inversión+ 180 días %8.25",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": "GAT nominal"
+  },
+  {
+    "tipo": "plazo",
+    "dias": 360,
+    "tasa": 8.25,
+    "tope": 0,
+    "descripcion": "Inversión+ 360 días %8.25",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": "GAT nominal"
+  }
+]

@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "tipo": "vista",
+    "dias": 0,
+    "tasa": 15.0,
+    "tope": 10000,
+    "descripcion": "DiDi Cuenta %15",
+    "tasaTope": 7.5,
+    "restricciones": "",
+    "notas": ""
+  }
+]

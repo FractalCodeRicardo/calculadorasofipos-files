@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "tipo": "vista",
+    "dias": 0,
+    "tasa": 13.0,
+    "tope": 25000,
+    "descripcion": "A la vista %13",
+    "tasaTope": 5.6,
+    "restricciones": "Ingresar 3mil al mes",
+    "notas": ""
+  }
+]

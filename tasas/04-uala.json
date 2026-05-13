@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "tipo": "vista",
+    "dias": 0,
+    "tasa": 6.75,
+    "tope": 30000,
+    "descripcion": "A la vista %6.75",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "vista",
+    "dias": 0,
+    "tasa": 12.0,
+    "tope": 30000,
+    "descripcion": "A la vista %12",
+    "tasaTope": 0,
+    "restricciones": "Gastar 3 mil al mes",
+    "notas": ""
+  },
+  {
+    "tipo": "vista",
+    "dias": 0,
+    "tasa": 15.0,
+    "tope": 30000,
+    "descripcion": "A la vista %15",
+    "tasaTope": 0,
+    "restricciones": "Gastar 6 mil al mes",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 7,
+    "tasa": 7.1,
+    "tope": 0,
+    "descripcion": "Plazo %7.1",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 14,
+    "tasa": 7.15,
+    "tope": 0,
+    "descripcion": "Plazo %7.15",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 28,
+    "tasa": 7.2,
+    "tope": 0,
+    "descripcion": "Plazo %7.2",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 90,
+    "tasa": 7.5,
+    "tope": 0,
+    "descripcion": "Plazo %7.5",
+    "tasaTope": 0,
+    "restricciones": "Promoción",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 180,
+    "tasa": 7.35,
+    "tope": 0,
+    "descripcion": "Plazo %7.35",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 365,
+    "tasa": 7.4,
+    "tope": 0,
+    "descripcion": "Plazo %7.4",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  }
+]

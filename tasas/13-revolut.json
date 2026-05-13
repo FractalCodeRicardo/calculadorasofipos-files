@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "tipo": "vista",
+    "dias": 0,
+    "tasa": 15.0,
+    "tope": 25000,
+    "descripcion": "Apartado %15",
+    "tasaTope": 7.5,
+    "restricciones": "",
+    "notas": ""
+  }
+]

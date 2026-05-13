@@ -2,13 +2,121 @@
   {
     "tipo": "vista",
     "dias": 0,
+    "tasa": 6.0,
+    "tope": 0,
+    "descripcion": "Flexible %6.0",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "vista",
+    "dias": 0,
     "tasa": 15.0,
-    "tope": 25000
+    "tope": 25000,
+    "descripcion": "Flexible Max 15%",
+    "tasaTope": 6,
+    "restricciones": "Klar plus",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 7,
+    "tasa": 6.1,
+    "tope": 0,
+    "descripcion": "Klar plus 7 días %6.1",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 7,
+    "tasa": 8.0,
+    "tope": 0,
+    "descripcion": "Klar plus 7 días %8.0",
+    "tasaTope": 0,
+    "restricciones": "Klar Plus",
+    "notas": ""
   },
   {
     "tipo": "plazo",
     "dias": 30,
-    "tasa": 15.0,
-    "tope": 25000
+    "tasa": 6.2,
+    "tope": 0,
+    "descripcion": "Plazo 30 días %6.2",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 30,
+    "tasa": 8.2,
+    "tope": 0,
+    "descripcion": "Klar plus 30 días %8.2",
+    "tasaTope": 0,
+    "restricciones": "Klar Plus",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 90,
+    "tasa": 6.3,
+    "tope": 0,
+    "descripcion": "Plazo 90 días %6.3",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 90,
+    "tasa": 8.3,
+    "tope": 0,
+    "descripcion": "Klar plus 90 días %8.3",
+    "tasaTope": 0,
+    "restricciones": "Klar Plus",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 180,
+    "tasa": 6.4,
+    "tope": 0,
+    "descripcion": "Plazo 180 días %6.4",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 180,
+    "tasa": 8.4,
+    "tope": 0,
+    "descripcion": "Klar plus 180 días %8.4",
+    "tasaTope": 0,
+    "restricciones": "Klar Plus",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 365,
+    "tasa": 6.5,
+    "tope": 0,
+    "descripcion": "Plazo 365 días %6.5",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 365,
+    "tasa": 8.5,
+    "tope": 0,
+    "descripcion": "Klar plus 365 días %8.5",
+    "tasaTope": 0,
+    "restricciones": "Klar Plus",
+    "notas": ""
   }
 ]

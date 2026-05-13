@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "tipo": "vista",
+    "dias": 0,
+    "tasa": 10.0,
+    "tope": 25000,
+    "descripcion": "Cuenta Digital %10",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": "Depósitos mensuales limitados"
+  },
+  {
+    "tipo": "vista",
+    "dias": 0,
+    "tasa": 10.0,
+    "tope": 500000,
+    "descripcion": "Cuenta Digital Evoluciona %10",
+    "tasaTope": 0,
+    "restricciones": "Evolucionar cuenta",
+    "notas": ""
+  }
+]

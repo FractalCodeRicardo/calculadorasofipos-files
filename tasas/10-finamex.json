@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "tipo": "plazo",
+    "dias": 28,
+    "tasa": 6.49,
+    "tope": 0,
+    "descripcion": "+CETES 28 días %6.49",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 91,
+    "tasa": 6.67,
+    "tope": 0,
+    "descripcion": "+CETES 91 días %6.67",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 182,
+    "tasa": 6.75,
+    "tope": 0,
+    "descripcion": "+CETES 182 días %6.75",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 364,
+    "tasa": 7.19,
+    "tope": 0,
+    "descripcion": "+CETES 364 días %7.19",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  },
+  {
+    "tipo": "plazo",
+    "dias": 728,
+    "tasa": 8.15,
+    "tope": 0,
+    "descripcion": "+CETES 728 días %8.15",
+    "tasaTope": 0,
+    "restricciones": "",
+    "notas": ""
+  }
+]
