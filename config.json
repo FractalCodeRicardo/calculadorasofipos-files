@@ -76,7 +76,7 @@
     {
       "id": "13-revolut",
       "nombre": "Revolut",
-      "imagen": "013-Revolut.png",
+      "imagen": "013-revolut.png",
       "tasas": "13-revolut.json"
     }
   ]
